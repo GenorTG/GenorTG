@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GenorTG
-- 👀 I’m interested in coding and making games.
-- 🌱 I’m currently learning Javascript, React.JS, Docker.
+- 👀 I'm actively working on developing my web-dev, front-end skills.
 
 <!---
 GenorTG/GenorTG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
