@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GenorTG
+- 👋 Hi, I’m Chris.
 - 👀 I'm actively working on developing my web-dev, front-end skills.
 
 <!---
