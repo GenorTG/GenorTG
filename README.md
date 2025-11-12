@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris.
-- 👀 I'm actively working on developing my web-dev, front-end skills.
+- 👀 I code stuff.
 
 <!---
 GenorTG/GenorTG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
