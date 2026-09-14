@@ -17,7 +17,7 @@ $ cat company.txt
   Building systems, agents, and tools — mostly on my own metal.
 
 $ echo $STACK
-  TypeScript · JavaScript · Python · AI/LLM · Docker · Linux · Godot
+  Python · AI/LLM · TypeScript · JavaScript · Docker · Linux · Godot
 ```
 
 <br />
@@ -28,30 +28,34 @@ $ echo $STACK
 
 ---
 
-## `> currently`
+## `> flagship`
 
-```diff
-+ FineTune Studio        # flagship — local fine-tuning & inference workflow (private)
-+ Headroom (OpenClaw)    # upstream OSS — context compression plugin & proxy routing
-+ Agent orchestration    # OpenClaw plugins, self-hosted gateways, homelab infra
-~ Game projects          # Godot / MonoGame — background experiments
-```
+### [⚡ Finetune Studio](https://github.com/GenorTG/finetune-studio)
 
-Day job: **software engineer & AI systems builder** in financial services.  
-Nights: **Smart Samurai** — shipping tools I actually want to use.
+**Self-hosted LLM workshop** — RAG, LoRA training, GGUF export, benchmarks, local inference. One terminal-styled WebUI. Runs on your metal.
+
+[![Repo](https://img.shields.io/badge/GitHub-finetune--studio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GenorTG/finetune-studio)
+[![Live page](https://img.shields.io/badge/%E2%9A%A1_presentation-live-00ff66?style=for-the-badge)](https://genortg.github.io/finetune-studio/)
+[![License](https://img.shields.io/badge/license-PolyForm%20Noncommercial-ff8800?style=for-the-badge)](https://github.com/GenorTG/finetune-studio/blob/main/LICENSE)
+
+Free for personal & research. Commercial use needs a paid license.
+
+That's the magnum opus. Everything else is scaffolding.
 
 ---
 
-## `> public_repos`
+## `> currently`
 
-| Project | What it is |
-|---------|------------|
-| [**headroom**](https://github.com/GenorTG/headroom) | Context compression for coding agents — OSS fork & OpenClaw plugin work |
-| [**ai-trainer**](https://github.com/GenorTG/ai-trainer) | Fine-tuning, inference & benchmarking for Gemma / Phi models |
-| [**genor-orchestrator-plugin**](https://github.com/GenorTG/genor-orchestrator-plugin) | OpenClaw plugin — model routing, session logging, project hooks |
-| [**genor-orchestrator-dashboard**](https://github.com/GenorTG/genor-orchestrator-dashboard) | Dashboard UI for orchestration workflows |
-| [**asteroids**](https://github.com/GenorTG/asteroids) | Classic arcade, Python edition |
-| [**sms-gate**](https://github.com/GenorTG/sms-gate) | Dockerized SMS gateway — quick deploy |
+```diff
++ Finetune Studio     # shipping & polishing the public release
+~ Agent / homelab     # self-hosted infra, gateways, local tooling
+~ Game experiments    # Godot — vibes only
+```
+
+Days: I ship production software and AI systems that have to actually work.  
+Nights: **Smart Samurai** — local-first tools I build because I refuse to rent my stack from someone else's cloud.
+
+Sometimes I PR into upstream projects when I fix something for myself and it should live upstream too.
 
 ---
 
@@ -59,7 +63,7 @@ Nights: **Smart Samurai** — shipping tools I actually want to use.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,react,nodejs,docker,linux,git,github,postgres,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ts,js,docker,linux,react,nodejs,git,github,postgres,html,css&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -83,9 +87,9 @@ Nights: **Smart Samurai** — shipping tools I actually want to use.
 
 Started on the **frontend** — HTML, CSS, JS, then frameworks.  
 Moved into **AI systems**, **local inference**, and **self-hosted infra**.  
-Now I build **agents**, **compression pipelines**, and **dev tooling** that runs on hardware I control.
+Now I build workshops and tooling that run on hardware I control — **Finetune Studio** is the proof.
 
-Philosophy: **local-first**, **type-safe where it matters**, **ship the boring reliability**.
+Philosophy: **local-first**, **Python where it counts**, **ship the boring reliability**.
 
 ---
 
@@ -93,7 +97,7 @@ Philosophy: **local-first**, **type-safe where it matters**, **ship the boring r
 
 ```bash
 $ open --collab
-  GitHub issues / discussions on any public repo
+  Issues / discussions on Finetune Studio
   Open to OSS collab, agent infra, and tooling chat
 
 $ curl -I smart-samurai
