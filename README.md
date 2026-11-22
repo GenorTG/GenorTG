@@ -55,16 +55,10 @@ Prepare, lint and test what your local models should know: documents, company co
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td colspan="2" valign="top">
 
 ### 👓 [glass-vision](https://github.com/GenorTG/glass-vision)
 Phone camera → your own GPU server → live recognition overlay: objects, find-by-text, faces, OCR, gestures, pose. Self-hosted, AGPL-3.0.
-
-</td>
-<td valign="top">
-
-### 🎨 [ComfyUI PromptForge](https://github.com/GenorTG/ComfyUI-PromptForge)
-Unified ComfyUI prompt-enhancement node pack: a V2 image and video suite with 50 nodes and blank workflow templates. MIT.
 
 </td>
 </tr>
